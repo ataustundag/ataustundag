@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### I am Ata Yigit Uzay Ustundag. A Computer Science major and computer wizard from Ohio, United States.
+#### Computer Science student | Seeking Full-Time Software Engineer Job <br>
+#### | C# & Java | Developing software for Windows OS | 2025 Graduation
+
+## Socials
+[![Youtube Channel]](https://studio.youtube.com/channel/UCnI2fV_2-pvYrwjI7KFW0pA/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
+
+
 <!--
 **ataustundag/ataustundag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
